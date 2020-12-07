@@ -1,0 +1,1 @@
+This repo contains my data science side project along with my friend, Alabhya Dahal. You can find the data for this project at: https://www.kaggle.com/c/riiid-test-answer-prediction/data?select=train.csv 
